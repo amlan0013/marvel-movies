@@ -1,0 +1,56 @@
+.b {
+    background-color: rgb(124, 123, 123);
+}
+
+.n {
+    background-color: rgb(238, 38, 38);
+    border-bottom-left-radius: 1rem;
+    padding: 2rem 0.5rem;
+}
+
+.n .n-d {
+    color: white;
+}
+
+.n .u {
+    list-style: none;
+    text-align: right;
+}
+
+.n .n-l {
+    display: inline;
+}
+
+.n .n-ll {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+    max-width: 300px;
+    ;
+}
+
+.img {
+    margin: auto;
+    display: block;
+    padding: 1rem;
+}
+
+.h {
+    text-align: center;
+    color: white;
+}
+
+.movie {
+    color: rgb(253, 249, 249);
+    text-align: center;
+    background-color: rgb(240, 37, 37);
+    border-radius: 0.5rem;
+}
+
+.p {
+    color: rgb(253, 249, 249);
+}
+
+.mh {
+    color: white;
+}
