@@ -1,38 +1,49 @@
 .b {
-    background-color: rgb(124, 123, 123);
+    background-color: rgb(129, 128, 128);
 }
 
 .n {
-    background-color: rgb(238, 38, 38);
-    border-bottom-left-radius: 1rem;
+    background-color: rgb(235, 30, 30);
+    border-bottom-left-radius: 2rem;
     padding: 2rem 0.5rem;
 }
 
-.n .n-d {
-    color: white;
-}
-
 .n .u {
-    list-style: none;
     text-align: right;
+    list-style: none;
 }
 
 .n .n-l {
     display: inline;
+    padding: 1rem;
 }
 
-.n .n-ll {
+.n .link {
+    text-decoration: none;
+    color: white;
+}
+
+.n .n-o {
+    text-align: left;
+    list-style: none;
+    text-decoration: none;
+}
+
+.n .o-l {
+    display: inline;
+    padding: 1rem;
+}
+
+.n .n-s {
     color: white;
     text-decoration: none;
-    padding: 0.5rem;
-    max-width: 300px;
-    ;
 }
 
 .img {
-    margin: auto;
     display: block;
-    padding: 1rem;
+    margin: auto;
+    max-width: 300px;
+    padding: 0.5rem;
 }
 
 .h {
